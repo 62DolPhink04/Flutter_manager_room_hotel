@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "964187063799",
+    "project_id": "hostel-manager-e74af",
+    "storage_bucket": "hostel-manager-e74af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964187063799:android:ee63cf615bea9e11091af2",
+        "android_client_info": {
+          "package_name": "com.luminaraug.hostel_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKR17Ctmz3By4mLxirVD62LU_-r2cUX0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
